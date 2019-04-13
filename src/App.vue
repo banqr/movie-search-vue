@@ -37,10 +37,7 @@ export default {
           this.imgage = dejta.data[0].images.downsized.url
           this.movie = ''    
           console.log(dejta.data[0].images.downsized.url)
-          })
-      //console.log(`${giphy_url_1}${this.movie}${giphy_url_2}`)
-      
-      
+          })  
     }
   },
 }
