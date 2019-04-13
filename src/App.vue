@@ -37,7 +37,7 @@ export default {
           this.imgage = dejta.data[0].images.downsized.url
           this.movie = ''    
           console.log(dejta.data[0].images.downsized.url)
-          })  
+        })  
     }
   },
 }
